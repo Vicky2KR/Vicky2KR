@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Venu</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <h1>My GitHub Repository</h1>
+
+  <img src="https://media.tenor.com/images/648c654f44a5a119edb94fc2b8707a2f/tenor.gif" alt="Cloud GIF">
+
+  <h3>Interests and Hobbies</h3>
+
+<ul style="color: blue;">
+  <li>Learning about new cloud technologies</li>
+  <li>Contributing to open source cloud projects</li>
+  <li>Automating infrastructure and applications</li>
+  <li>Building and maintaining cloud-based CI/CD pipelines</li>
+  <li>Keeping up with the latest cloud DevOps best practices</li>
+</ul>
+
+</body>
+</html>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky2kr&label=Profile%20views&color=0e75b6&style=flat" alt="vicky2kr" /> </p>
-
-
-
-- 🔭 I’m currently working on **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
