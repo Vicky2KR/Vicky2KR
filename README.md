@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Venu</h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Venu
+<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
+<p align ="left">
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
 <!DOCTYPE html>
