@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  ![]((https://github.com/Vicky2KR/Vicky2KR/blob/main/cloud.gif))
+![](https://github.com/Vicky2KR/Vicky2KR/blob/main/dev.gif)
 
   <h3>Interests and Hobbies</h3>
 
