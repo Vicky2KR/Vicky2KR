@@ -6,9 +6,8 @@
 <head>
 </head>
 <body>
-  <h1>My GitHub Repository</h1>
 
-  <img src="https://media.tenor.com/images/648c654f44a5a119edb94fc2b8707a2f/tenor.gif" alt="Cloud GIF">
+  ![]https://github.com/Vicky2KR/Vicky2KR/blob/main/cloud.gif
 
   <h3>Interests and Hobbies</h3>
 
