@@ -15,7 +15,6 @@
 
 <ul style="color: blue;">
   <li>Learning about new cloud technologies</li>
-  <li>Contributing to open source cloud projects</li>
   <li>Automating infrastructure and applications</li>
   <li>Building and maintaining cloud-based CI/CD pipelines</li>
   <li>Keeping up with the latest cloud DevOps best practices</li>
